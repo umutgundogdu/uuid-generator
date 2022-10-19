@@ -1,10 +1,10 @@
 # Getting Started with Create React App
 
-## install
+### install
 ### yarn 
 
-## start
+### start
 ### yarn start
 
-## build
+### build
 ### yarn build
